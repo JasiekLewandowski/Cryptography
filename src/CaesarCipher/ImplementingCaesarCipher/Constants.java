@@ -1,4 +1,4 @@
-package CaesarCipher;
+package CaesarCipher.ImplementingCaesarCipher;
 
 public class Constants {
   public static final String ALPHABET = " ABCDEFGHIJKLMNOPQRSTUWXYZ";
